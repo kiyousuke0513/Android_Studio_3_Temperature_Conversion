@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperature</string>
+    <string name="Tempture_C">攝氏溫度 :</string>
+    <string name="攝氏華氏">攝氏/華氏</string>
+    <string name="Tempture_F">華氏溫度 :</string>
+</resources>
